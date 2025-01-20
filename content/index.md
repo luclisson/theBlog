@@ -5,4 +5,4 @@ Hey, my name is Luc. I'm from Germany and currently studying computer science wh
 discord: luc9999
 mail: lisson.luc@gmail.com
 
-first post comming soon...
+[[Blog- Januar 2025 Index]] #comsci #books
