@@ -1,4 +1,6 @@
-
+---
+title: "C Student Challenge"
+description: "Discussing a C programming student challenge."
 ---
 
 ### Task: **Number Operations**
@@ -50,7 +52,3 @@ Operation took 0.000012 seconds.
 
 Enter your choice: 6
 Goodbye!
-```
-
----
-[[sample solution(ChatGPT)]]
