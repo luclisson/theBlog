@@ -24,6 +24,7 @@ mail: lisson.luc@gmail.com
 
 ### structure
 The page I'll link separate pages to the specific topics. By doing so you get a brief overview about the topic and can decide which topics you want to read about and don't have to scroll though text you might aren't interested in. I imagine the homepage as a list of all individual blog posts with tags which give you an idea what the post will be about. All the blog post will be subpages of the homepage.
+I want to create a monthly page and add all the topics I dealt with through out the month. This would be compareable to a rolling release. In the future I can imagine posting only 1 time a month like a monthy newspaper.
 
 
 
