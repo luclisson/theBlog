@@ -1,0 +1,5 @@
+- GET - retrieve details of a resource
+- POST - create a new resource
+- PUT - update an existing resource
+- PATCH - update part of a resource
+- DELETE.- delete a resource
